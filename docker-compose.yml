@@ -16,3 +16,4 @@ services:
      volumes:
       - ./:/app
      command: sh -c "cd react-sample && yarn build"
+
